@@ -34,7 +34,8 @@ function resetLARRY(){
 		LARRY.quack();
 }
 
-
+// Estoy agregardo alfo
+console.log("Hola");
 function setMessage() {
   radio.message=JSON.stringify(navigation);
 }
